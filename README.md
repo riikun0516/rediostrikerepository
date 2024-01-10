@@ -9,4 +9,8 @@ RadioStrike公式サイトなどのレポジトリファイルです
   <li>
     その他・・・・Webサイトルートフォルダーに入れるデータ
   </li>
+  <h2>バグ報告</h2>
+  <ul>
+    <li>Wordpress連携ページ(news.php,blog.php)において一部Wordpressテーマを適用すると表示されない不具合あり。</li>
+  </ul>
 </ul>
